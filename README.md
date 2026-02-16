@@ -49,7 +49,7 @@ Language: PowerShell
 ver [script](script.ps1) 
 
 ### 3. Create & Customize Script  
-![schedule](schedule.png)  
+![schedule](/images/schedule.png)  
 
 
 
