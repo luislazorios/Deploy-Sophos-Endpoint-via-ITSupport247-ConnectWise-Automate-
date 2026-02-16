@@ -34,7 +34,7 @@ Go to user.itsupport247.net > Connect Asio (or Automation dashboard)
 ![task](/images/task.png)  
 ↓
 Navigate: Automation > Scripts > New > PowerShell Script  
-![script](/images/script.png)  
+![script](/images/task.png)  
 
 
 ### 3. Create & Customize Script
