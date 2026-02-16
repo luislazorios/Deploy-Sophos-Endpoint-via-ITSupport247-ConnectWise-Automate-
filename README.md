@@ -21,7 +21,7 @@ Login: central.sophos.com > My Products > Partner Portal > My Business > Custome
 ![lauch](/images/launch.png)  
 ↓  
 My Products > Endpoint Protection > Installers  
-![installers](/images/installers.png)  
+![installers](/images/Installers.png)  
 ↓  
 Right-click "Download Complete Windows Installer" > Copy link address
 ![copy](/images/link.png)
