@@ -2,7 +2,7 @@
 # Requires Administrator execution
 # Tenant-specific URL (update if it changes)
 
-$SophosUrl = "https://dzr-api-amzn-us-west-2-fa88.api-upe.p.hmr.sophos.com/api/download/d2470ade9216b9781c5096e328b5c3d3/SophosSetup.exe"
+$SophosUrl = "https://dzr-api-amzn-us-west-2-fa88.api-upe.p.hmr.sophos.com/api/download/XXXXXXXXXXXXXXXXXXXXXX/SophosSetup.exe"
 $InstallerPath = "$env:TEMP\SophosSetup.exe"
 $LogPath = "$env:TEMP\SophosInstall.log"
 
