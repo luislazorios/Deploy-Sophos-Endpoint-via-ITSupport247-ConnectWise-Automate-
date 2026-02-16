@@ -15,7 +15,7 @@
 
 ### 1. Get Tenant-Specific Installer Link
 Login: central.sophos.com > My Products > Partner Portal > My Business > Customers  
-![customer](/images/customer.png)  
+![customer](/images/customers.png)  
 ↓  
 > Select Customer > Launch Customer  
 ![lauch](/images/launch.png)  
