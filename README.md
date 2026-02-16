@@ -14,13 +14,13 @@
 ## Step-by-Step Instructions
 
 ### 1. Get Tenant-Specific Installer Link
-Login: central.sophos.com > My Products > Partner Portal
-↓
-My Business > Customers > Select Customer > Launch Customer
-↓
-My Products > Endpoint Protection > Installers
-↓
-Right-click "Download Complete Windows Installer" > Copy link address
+Login: central.sophos.com > My Products > Partner Portal  
+↓  
+My Business > Customers > Select Customer > Launch Customer  
+↓  
+My Products > Endpoint Protection > Installers  
+↓  
+Right-click "Download Complete Windows Installer" > Copy link address  
 
 text
 
