@@ -46,9 +46,10 @@ Language: PowerShell
 
 **Paste this robust script** (replace `$SOPHOS_URL` with Step 1 link):  
 
-ver [script](script.ps1)  
+ver [script](script.ps1) 
+
+### 3. Create & Customize Script  
+![schedule](schedule.png)  
 
 
-# Cleanup
-Remove-Item $InstallerPath -Force -ErrorAction SilentlyContinue
-Write-Log "Script completed. Log: $LogPath"
+
