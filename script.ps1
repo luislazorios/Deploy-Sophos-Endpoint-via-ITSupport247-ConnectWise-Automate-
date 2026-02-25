@@ -2,7 +2,7 @@
 # Requires Administrator execution
 # Tenant-specific URL (update if it changes)
 
-$SophosUrl = "https://dzr-api-amzn-us-west-2-fa88.api-upe.p.hmr.sophos.com/api/download/XXXXXXXXXXXXXXXXXXXXXX/SophosSetup.exe"
+$SophosUrl = "https://dzr-api-amzn-us-west-2-fa88.api-upe.p.hmr.sophos.com/api/download/XXXXXXXXXXXXXXXXXXXXXXX/SophosSetup.exe"
 $InstallerPath = "$env:TEMP\SophosSetup.exe"
 $LogPath = "$env:TEMP\SophosInstall.log"
 
@@ -62,4 +62,3 @@ if ($SophosService -and $SophosService.Status -eq "Running") {
 # Cleanup
 Remove-Item $InstallerPath -Force -ErrorAction SilentlyContinue
 Write-Log "Script completed. Log: $LogPath"
-
